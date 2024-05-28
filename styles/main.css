@@ -8,6 +8,15 @@
         url("../fonts/Vazir.ttf") format("truetype");
     /* Safari, Android, iOS */
 }
-body{
+body {
     font-family: "Vazir" !important;
+}
+/* Header */
+.navbar {
+    transition: all 0.5s ease-in;
+    padding: 20px 0;
+}
+.header-scrolled {
+    background-color: #fff;
+    box-shadow: 0px 2px 20px rgb(1 41 112 / 10%);
 }
