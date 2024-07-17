@@ -43,3 +43,8 @@ body {
     background: url('../images/intro/intro-bg.png') top center no-repeat;
     background-size: cover;
 }
+/* About */
+.content {
+    background-color: #f6f9ff;
+    padding: 40px;
+}
