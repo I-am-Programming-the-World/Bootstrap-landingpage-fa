@@ -11,6 +11,17 @@
 body {
     font-family: "Vazir" !important;
 }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {
+    line-height: 1.2 !important;
+}
+/* Utilities */
+.hover {
+    transition: all 0.5s ease-in-out;
+}
+.hover:hover {
+    transform: scale(1.1);
+    background-color: cadetblue;
+}
 /* Header */
 .navbar {
     transition: all 0.5s ease-in;
