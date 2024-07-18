@@ -48,3 +48,19 @@ body {
     background-color: #f6f9ff;
     padding: 40px;
 }
+/* Counters */
+.counters i {
+    font-size: 42px;
+}
+.counters i.blue-color {
+    color: #4154f1;
+}
+.counters i.orange-color {
+    color: #ee6c20;
+}
+.counters i.green-color {
+    color: #15be56;
+}
+.counters i.red-color {
+    color: #bb0852;
+}
