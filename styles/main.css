@@ -76,20 +76,24 @@ body {
     text-align: center;
     border-radius: 5px;
 }
-
 .services .service-box i {
     font-size: 36px;
 }
-
 .services .service-box .read-more {
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 800;
 }
-
 .services .service-box .read-more i {
     font-size: 18px;
     line-height: 0;
     margin-right: 0.4rem;
+}
+/* Pricing */
+.pricing .card {
+    transition: all 0.3s;
+}
+.pricing .card:hover {
+    transform: scale(1.1);
 }
