@@ -177,3 +177,22 @@ a {
 .pricing .card:hover {
     transform: scale(1.1);
 }
+/* Contact */
+.contact .info-box {
+    background-color: #fafbff;
+    padding: 30px;
+}
+.contact .info-box i {
+    font-size: 38px;
+    line-height: 0;
+    color: #4154f1;
+}
+.contact .info-box .cellphone {
+    direction: ltr;
+    text-align: right;
+}
+.contact .contact-form {
+    background-color: #fafbff;
+    padding: 30px;
+    height: 100%;
+}
