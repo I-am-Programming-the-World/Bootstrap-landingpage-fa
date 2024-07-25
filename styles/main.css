@@ -196,3 +196,18 @@ a {
     padding: 30px;
     height: 100%;
 }
+/* Pricing */
+.footer .social-links i{
+    font-size: 20px;
+    color: rgba(1, 41, 112, 0.5);
+}
+.footer hr{
+    width: 70%;
+    height: 5px;
+}
+.footer .footer-links i{
+    font-size: 13px;
+}
+.footer .footer-links a{
+    color: #000;
+}
