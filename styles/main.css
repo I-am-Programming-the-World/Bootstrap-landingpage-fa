@@ -177,3 +177,37 @@ a {
 .pricing .card:hover {
     transform: scale(1.1);
 }
+/* Contact */
+.contact .info-box {
+    background-color: #fafbff;
+    padding: 30px;
+}
+.contact .info-box i {
+    font-size: 38px;
+    line-height: 0;
+    color: #4154f1;
+}
+.contact .info-box .cellphone {
+    direction: ltr;
+    text-align: right;
+}
+.contact .contact-form {
+    background-color: #fafbff;
+    padding: 30px;
+    height: 100%;
+}
+/* Pricing */
+.footer .social-links i{
+    font-size: 20px;
+    color: rgba(1, 41, 112, 0.5);
+}
+.footer hr{
+    width: 70%;
+    height: 5px;
+}
+.footer .footer-links i{
+    font-size: 13px;
+}
+.footer .footer-links a{
+    color: #000;
+}
