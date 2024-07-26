@@ -181,6 +181,7 @@ a {
 .contact .info-box {
     background-color: #fafbff;
     padding: 30px;
+    border-radius: 10px;
 }
 .contact .info-box i {
     font-size: 38px;
@@ -189,10 +190,10 @@ a {
 }
 .contact .info-box .cellphone {
     direction: ltr;
-    text-align: right;
 }
 .contact .contact-form {
     background-color: #fafbff;
+    border-radius: 10px;
     padding: 30px;
     height: 100%;
 }
