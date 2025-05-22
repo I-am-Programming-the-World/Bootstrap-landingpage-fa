@@ -1,4 +1,15 @@
 # Responsive Bootstrap Landing Page Template
+[![Bootstrap 5.3.3](https://img.shields.io/badge/Bootstrap-5.3.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)](https://alpinejs.dev/)
+[![AOS](https://img.shields.io/badge/AOS-Scroll%20Animations-blueviolet?style=for-the-badge)](https://michalsnik.github.io/aos/)
+[![Bootstrap Icons 1.11.3](https://img.shields.io/badge/Bootstrap_Icons-1.11.3-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://icons.getbootstrap.com/)
+[![PureCounter](https://img.shields.io/badge/PureCounter-Animated%20Counters-1f9784?style=for-the-badge)](https://github.com/srexi/purecounterjs)
+[![Vazir Font](https://img.shields.io/badge/Font-Vazir%20(Persian)-orange?style=for-the-badge)](https://github.com/rastikerdar/vazir-font)
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-brightgreen?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/Mobile_first)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 This is a responsive landing page template built with Bootstrap 5, designed as a versatile starting point for various web projects. The template features multiple sections including a navigation bar, hero section, about us, feature cards, counters, services, pricing tables, a contact form, and a footer. It incorporates modern web design practices with animations and a custom Persian font, making it particularly suitable for Persian-speaking audiences, though it can be adapted for any language.
 
